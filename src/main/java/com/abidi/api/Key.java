@@ -1,4 +1,4 @@
-package barclays.smad.api;
+package com.abidi.api;
 
 public interface Key {
 

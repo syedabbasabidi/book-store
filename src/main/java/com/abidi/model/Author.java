@@ -1,6 +1,6 @@
-package barclays.smad.model;
+package com.abidi.model;
 
-import barclays.smad.api.Key;
+import com.abidi.api.Key;
 import org.apache.commons.lang3.StringUtils;
 
 public class Author implements Key {

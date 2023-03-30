@@ -1,9 +1,9 @@
-package barclays.smad.impl;
+package com.abidi.impl;
 
-import barclays.smad.api.BookStorage;
-import barclays.smad.model.Author;
-import barclays.smad.model.Book;
-import barclays.smad.model.Title;
+import com.abidi.api.BookStorage;
+import com.abidi.model.Author;
+import com.abidi.model.Book;
+import com.abidi.model.Title;
 import net.openhft.chronicle.jlbh.JLBH;
 import net.openhft.chronicle.jlbh.JLBHOptions;
 import net.openhft.chronicle.jlbh.JLBHTask;

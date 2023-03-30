@@ -1,8 +1,8 @@
-package barclays.smad.impl;
+package com.abidi.impl;
 
-import barclays.smad.model.Author;
-import barclays.smad.model.Book;
-import barclays.smad.model.Title;
+import com.abidi.model.Author;
+import com.abidi.model.Book;
+import com.abidi.model.Title;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.junit.MockitoJUnitRunner;

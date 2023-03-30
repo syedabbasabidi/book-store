@@ -1,6 +1,6 @@
-package barclays.smad.model;
+package com.abidi.model;
 
-import barclays.smad.api.Key;
+import com.abidi.api.Key;
 
 import java.util.HashSet;
 import java.util.Set;
